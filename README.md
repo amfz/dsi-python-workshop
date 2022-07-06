@@ -54,7 +54,7 @@ The course is a live-coding class. Learners are expected to follow along with th
 * Day 6: Data visualization
 
 ## Folder Structure
-* **slides**: Course slides as interactive Juptyer notebooks .ipynb files)
+* **01-slides**: Course slides as interactive Juptyer notebooks (.ipynb files)
 * **original-slides**: Original course slide as interactive Jupyter notebooks (.ipynb files)
 * **data**: Datasets used in the course
 * README: This file!
