@@ -15,7 +15,7 @@
 ## Description:
 The workshop was created by the University of Toronto's Data Science Institute. It is designed for those who have a degree in something other than Computer Science/Statistics who are looking to enhance their data science skills for their career.
 
-This course starts with Python fundamentals, like data types, functions, conditionals and iteration. We then move on to working with data in files with the help of code libraries. Learners will 
+This course starts with Python fundamentals, like data types, functions, conditionals and iteration. We then introduce modules, file input and output, and object oriented programming concepts, which sets the stage for working with data in files with the help of popular data science libraries. Learners will gain an understanding of common data science workflows in Python. 
 
 ## Learning Outcomes
 After successfully completing the course, the students will:
@@ -48,12 +48,13 @@ The course is a live-coding class. Learners are expected to follow along with th
 
 * Day 1: Introduction, setup, basic data types, variables, and operations
 * Day 2: Functions, dealing with errors, documenting code, working with strings
-* Day 3: Logic, control flow, collections of values, intro to modules
-* Day 4: Reading and writing files, object-oriented programming concepts
+* Day 3: Logic, control flow, collections of values
+* Day 4: Modules, reading and writing files, object-oriented programming concepts
 * Day 5: Working with data in `numpy` and `pandas`
 * Day 6: Data visualization
 
 ## Folder Structure
+* **slides**: Course slides as interactive Juptyer notebooks .ipynb files)
 * **original-slides**: Original course slide as interactive Jupyter notebooks (.ipynb files)
 * **data**: Datasets used in the course
 * README: This file!
