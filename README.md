@@ -22,9 +22,9 @@ After successfully completing the course, the students will:
 1. Understand various Python data types and their role in coding.
 2. Be able to design functions in Python following the Function Design Recipe.
 3. Be able to control the execution flow of code through conditionals and loops.
-4. Know how to test and debug their code.
-5. Be able to load and analyze a dataset in Jupyter Notebook with `numpy` and `pandas`.
-6. Be able to visualize data with popular visualization libraries like `matplotlib` and `seaborn`.
+4. Be able to load and analyze a dataset in Jupyter Notebook with `numpy` and `pandas`.
+5. Be able to visualize data with popular visualization libraries like `matplotlib` and `seaborn`.
+6. Be acquainted with techniques for developing reproducible code.
 
 ## Design
 The course runs synchronously over Zoom. It consists of three classes a week for two weeks, or six classes total. Classes are 6 PM - 8 PM EDT on Mondays and Thursdays, and 9 AM - 12 PM EDT on Saturdays. Being mindful of online fatigue, there will be one break during each class where students are encouraged to stretch, grab a drink and snacks, or ask any additional questions.
@@ -55,7 +55,10 @@ The course is a live-coding class. Learners are expected to follow along with th
 
 ## Folder Structure
 * **01-slides**: Course slides as interactive Juptyer notebooks (.ipynb files)
-* **original-slides**: Original course slide as interactive Jupyter notebooks (.ipynb files)
+  * **sample_data**: A folder containing sample data files used in the slides. If you are using Anaconda for this course, please download this folder and put it in your own course materials folder.
+* **02-html-slides**: Course slides as HTML files that can be viewed in a web browser.
+* **03-pdf-slides**: Course slides as PDFs.
+* **original-slides**: Original course slides as interactive Jupyter notebooks (.ipynb files)
 * **data**: Datasets used in the course
 * README: This file!
 * LICENSE: Copyright information for these materials
