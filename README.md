@@ -17,6 +17,9 @@ The workshop was created by the University of Toronto's Data Science Institute. 
 
 This course starts with Python fundamentals, like data types, functions, conditionals and iteration. We then introduce modules, file input and output, and object oriented programming concepts, which sets the stage for working with data in files with the help of popular data science libraries. Learners will gain an understanding of common data science workflows in Python. 
 
+Prior to the first class please complete the following survey:
+https://forms.gle/c7VHuHaYcpQNavaz7
+
 ## Learning Outcomes
 After successfully completing the course, the students will:
 1. Understand various Python data types and their role in coding.
