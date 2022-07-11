@@ -48,19 +48,21 @@ The course is a live-coding class. Learners are expected to follow along with th
   * the [Anaconda Python distribution](https://www.anaconda.com/products/distribution) with Jupyter Notebooks installed on their computer
 
 ## Policies
-* **Microphone**: Please keep microphones muted unless you need to speak. Please indicate your name before speaking -- some Zoom configurations make it hard to tell who is talking!
-* **Camera**: Keeping your camera on is optional, but encouraged.
-* **Course communications**: Communications take place over email. Please include "DSI-Python" or similar in the subject line, e.g. "DSI-Python: pandas question"
+* **Accessiblity:** We want to provide an accessible learning environment for all. If there is something I can do to make this course more accessible to you, please let me know.
+* **Assessment:** Assessments are optional and will not be graded.
+* **Course communications:** Communications take place over email. Please include "DSI-Python" or similar in the subject line, e.g. "DSI-Python: pandas question"
+* **Camera:**: Keeping your camera on is optional.
+* **Microphone:** Please keep microphones muted unless you need to speak. Please indicate your name before speaking -- some Zoom configurations make it hard to tell who is talking!
 
 ## Schedule
 *Schedule is tentative and may be modified as needed. Learners will be notified of schedule changes.*
 
-* Day 1: Introduction, setup, basic data types, variables, and operations
-* Day 2: Functions, dealing with errors, documenting code, working with strings
-* Day 3: Logic, control flow, collections of values
-* Day 4: Modules, reading and writing files, object-oriented programming concepts
-* Day 5: Working with data in `numpy` and `pandas`
-* Day 6: Data visualization
+* **Day 1:** Introduction and setup, basic data types, variables, operations, functions, dealing with errors, documenting code
+* **Day 2:** More on functions, working with strings, logic, intro to control flow
+* **Day 3:** Control flow, collections of values
+* **Day 4:** Modules, reading and writing files, object-oriented programming concepts, intro to `numpy`
+* **Day 5:** Working with data in `numpy` and `pandas`
+* **Day 6:** Data visualization
 
 ## Folder Structure
 * **01-slides**: Course slides as interactive Juptyer notebooks (.ipynb files)
@@ -79,4 +81,4 @@ Gries, Campbell, and Montojo, 2017, _Practical Programming: An Introduction to C
 Adhikari, DeNero, and Wagner, _Computational and Inferential Thinking: The Foundations of Data Science._
 
 ## Acknowledgements
-Slides were originally developed by Asel Kushkeyeva under the supervision of Rohan Alexander, University of Toronto. Slides have been modified by A. Mahfouz for 2022.
+Course materials were originally developed by Asel Kushkeyeva under the supervision of Rohan Alexander, University of Toronto. Materials have been modified by A. Mahfouz for 2022.
