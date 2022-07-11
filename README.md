@@ -67,6 +67,7 @@ The course is a live-coding class. Learners are expected to follow along with th
   * **sample_data**: A folder containing sample data files used in some of the slides. If you are using Anaconda for this course, please be sure to include this folder in your own course materials folder.
 * **02-html-slides**: Course slides as HTML files that can be downloaded and viewed in a web browser
 * **03-pdf-slides**: Course slides as PDFs
+* **04-assessment**: Practice problems and assessment-related files
 * **original-slides**: Original course slides as interactive Jupyter notebooks (.ipynb files) and lesson plans as docx files. These slides contain additional code examples and provide more depth on topics like object-oriented programming.
 * **data**: Datasets used in the course
 * README: This file!
