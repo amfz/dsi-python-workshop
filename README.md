@@ -8,7 +8,7 @@ Welcome to Introduction to Python at the Data Sciences Institute, University of 
 * [02 Dealing with Reality: Control Flow and Iterables](https://amfz.github.io/dsi-python-workshop/slides/02_reality_control_flow_iterables.slides#/)
 * [03 In/Out: Modules, Files, OOP](https://amfz.github.io/dsi-python-workshop/slides/03_in_out_modules_files_oop.slides#/)
 * [04a Doing More with Data: `numpy`](https://amfz.github.io/dsi-python-workshop/slides/04a_data_numpy.slides#/)
-* [04b Doing More with Data: `pandas](https://amfz.github.io/dsi-python-workshop/slides/04b_data_pandas.slides#/)
+* [04b Doing More with Data: `pandas`](https://amfz.github.io/dsi-python-workshop/slides/04b_data_pandas.slides#/)
 
 ## About the Course:
 1. [Description](#description)
