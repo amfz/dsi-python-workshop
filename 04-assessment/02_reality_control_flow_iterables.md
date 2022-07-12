@@ -1,7 +1,8 @@
 # Dealing with Reality: Control Flow and Iterables
 ## Practice Problems
 
-1. Write a function named `different` that takes two arguments, `a` and `b`. If `a` and `b` are different values, the function should return `True`. Otherwise it should return `False`.
+### Q1
+Write a function named `different` that takes two arguments, `a` and `b`. If `a` and `b` are different values, the function should return `True`. Otherwise it should return `False`.
 
 <details>
     <summary>Q1 Hint</summary>
@@ -9,7 +10,8 @@
     </p>
 </details>
 
-2. Write a conditional that prints different messages if a bank account balance is:
+### Q2
+Write a conditional that prints different messages if a bank account balance is:
  * below $3,000
  * between $3,000 and $10,000
  * over $10,000
@@ -21,7 +23,8 @@
     </p>
 </details>
 
-3. Create a list, `books`, containing the following items: `'War and Peace', 'Pride and Prejudice', 'Mockingjay', 'Three Musketeers', 'The Adventures of Robinson Crusoe', 'Yevgeniy Onegin'`.
+### Q3
+Create a list, `books`, containing the following items: `'War and Peace', 'Pride and Prejudice', 'Mockingjay', 'Three Musketeers', 'The Adventures of Robinson Crusoe', 'Yevgeniy Onegin'`.
 
     * Using slicing or indexing, create the following:
       - An empty list
@@ -41,7 +44,8 @@
     </p>
 </details>
 
-4. Given the list `people`, sort it by people's first name, last name and age. Store the sorted lists as `by_first_name`, `by_last_name`, and `by_age`, respectively.  
+### Q4
+Given the list `people`, sort it by people's first name, last name and age. Store the sorted lists as `by_first_name`, `by_last_name`, and `by_age`, respectively.  
 `people = [('Mark', 'Harrison', 56), ('Ken', 'Wolseley', 23), ('Emily', 'Robinson', 77)]`
 
  <details>
@@ -56,7 +60,8 @@
     </p>
 </details>
 
-5. Write a function called `dict_intersect` that takes two dictionaries, `d1` and `d2`, as arguments and returns a set that contains only the keys found in both of the original dictionaries.
+### Q5
+Write a function called `dict_intersect` that takes two dictionaries, `d1` and `d2`, as arguments and returns a set that contains only the keys found in both of the original dictionaries.
 ```python
 def dict_intersect(d1, d2):
     '''Return the set of keys found in both d1 and d2.
@@ -88,15 +93,23 @@ def dict_intersect(d1, d2):
     </p>
 </details>
 
-6. Write a loop that iterates over the two lists below simultaneously. For each pair of values, print the first number divided by the second. When the program encounters a zero divisor, it should skip the pair without printing anything.  
+### Q6
+Write a loop that iterates over the two lists below simultaneously. For each pair of values, print the first number divided by the second. When the program encounters a zero divisor, it should skip the pair without printing anything.  
+
 ```python
 dividends = [100, 37.5, -12]
 divisors [8, 0, -3]
 ```
-
  <details>
     <summary>Q6 Hint 1</summary>
     <p>
     We can exit a loop early with <code>break</code>.
+    </p>
+</details>
+
+ <details>
+    <summary>Q6 Hint 2</summary>
+    <p>
+    Remember that we can bundle two lists pairwise with <code>zip()</code>.
     </p>
 </details>
