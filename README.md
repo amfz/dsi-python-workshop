@@ -5,10 +5,10 @@ Welcome to Introduction to Python at the Data Sciences Institute, University of 
 ## Slide Directory
 * [00 Hello Python](slides/00_hello_python.slides#/)
 * [01 Getting Started: Python Fundamentals](slides/01_getting_started_fundamentals.slides#/)
-* [02 Dealing with Reality: Control Flow and Iterables](02_reality_control_flow_iterables.slides#/)
-* [03 In/Out: Modules, Files, OOP](03_in_out_modules_files_oop.slides#/)
-* [04a Doing More with Data: `numpy`](04a_data_numpy.slides#/)
-* [04b Doing More with Data: `pandas](04b_data_pandas.slides#/)
+* [02 Dealing with Reality: Control Flow and Iterables](slides/02_reality_control_flow_iterables.slides#/)
+* [03 In/Out: Modules, Files, OOP](slides/03_in_out_modules_files_oop.slides#/)
+* [04a Doing More with Data: `numpy`](slides/04a_data_numpy.slides#/)
+* [04b Doing More with Data: `pandas](slides/04b_data_pandas.slides#/)
 
 ## About the Course:
 1. [Description](#description)
