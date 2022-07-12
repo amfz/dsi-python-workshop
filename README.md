@@ -1,7 +1,6 @@
 # DSI Workshop for Python
 
 
-
 ## Contents:
 1. [Description](https://github.com/amfz/dsi-python-workshop#description)
 2. [Course Contacts](https://github.com/amfz/dsi-python-workshop#course-contacts)
@@ -9,9 +8,10 @@
 4. [Design](https://github.com/amfz/dsi-python-workshop#design)
 5. [Expectations](https://github.com/amfz/dsi-python-workshop#expectations)
 6. [Policies](https://github.com/amfz/dsi-python-workshop#policies)
-7. [Schedule](https://github.com/amfz/dsi-python-workshop#schedule)
-8. [Folder Structure](https://github.com/amfz/dsi-python-workshop#folder-structure)
-9. [Acknowledgements](https://github.com/amfz/dsi-python-workshop#acknowledgements)
+7. [Slides](https://github.com/amfz/dsi-python-workshop#slides)
+8. [Schedule](https://github.com/amfz/dsi-python-workshop#schedule)
+9. [Folder Structure](https://github.com/amfz/dsi-python-workshop#folder-structure)
+10. [Acknowledgements](https://github.com/amfz/dsi-python-workshop#acknowledgements)
 
 ## Description:
 The workshop was created by the University of Toronto's Data Science Institute. It is designed for those who have a degree in something other than Computer Science/Statistics who are looking to enhance their data science skills for their career.
@@ -53,6 +53,14 @@ The course is a live-coding class. Learners are expected to follow along with th
 * **Course communications:** Communications take place over email. Please include "DSI-Python" or similar in the subject line, e.g. "DSI-Python: pandas question"
 * **Camera:**: Keeping your camera on is optional.
 * **Microphone:** Please keep microphones muted unless you need to speak. Please indicate your name before speaking -- some Zoom configurations make it hard to tell who is talking!
+
+## Slides
+* [00 Hello Python](https://amfz.github.io/dsi-python-workshop/slides/00_hello_python.slides#/)
+* [01 Getting Started: Python Fundamentals](https://amfz.github.io/dsi-python-workshop/slides/01_getting_started_fundamentals.slides#/)
+* [02 Dealing with Reality: Control Flow and Iterables](https://amfz.github.io/dsi-python-workshop/slides/02_reality_control_flow_iterables.slides#/)
+* [03 In/Out: Modules, Files, OOP](https://amfz.github.io/dsi-python-workshop/slides/03_in_out_modules_files_oop.slides#/)
+* [04a Doing More with Data: `numpy`](https://amfz.github.io/dsi-python-workshop/slides/04a_data_numpy.slides#/)
+* [04b Doing More with Data: `pandas`](https://amfz.github.io/dsi-python-workshop/slides/04b_data_pandas.slides#/)
 
 ## Schedule
 *Schedule is tentative and may be modified as needed. Learners will be notified of schedule changes.*
