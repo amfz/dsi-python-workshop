@@ -57,10 +57,10 @@ The course is a live-coding class. Learners are expected to follow along with th
 ## Schedule
 *Schedule is tentative and may be modified as needed. Learners will be notified of schedule changes.*
 
-* **Day 1:** Introduction and setup, basic data types, variables, operations, functions, dealing with errors, documenting code
-* **Day 2:** More on functions, working with strings, logic, intro to control flow
-* **Day 3:** Control flow, collections of values
-* **Day 4:** Modules, reading and writing files, object-oriented programming concepts, intro to `numpy`
+* **Day 1:** Introduction and setup, data types, variables, operations, functions, dealing with errors, documenting code, strings
+* **Day 2:** More on strings, logic, control flow, sequences and collections
+* **Day 3:** Control flow, collections of values continued, modules
+* **Day 4:** Reading and writing files, object-oriented programming concepts, intro to `numpy`
 * **Day 5:** Working with data in `numpy` and `pandas`
 * **Day 6:** Data visualization
 
@@ -70,6 +70,7 @@ The course is a live-coding class. Learners are expected to follow along with th
 * **02-html-slides**: Course slides as HTML files that can be downloaded and viewed in a web browser
 * **03-pdf-slides**: Course slides as PDFs
 * **04-assessment**: Practice problems and assessment-related files
+* **05-live-code**: Notebooks from class live coding sessions
 * **original-slides**: Original course slides as interactive Jupyter notebooks (.ipynb files) and lesson plans as docx files. These slides contain additional code examples and provide more depth on topics like object-oriented programming.
 * **data**: Datasets used in the course
 * README: This file!
