@@ -1,13 +1,25 @@
 # Dealing with Reality: Control Flow and Iterables
 ## Practice Problems
 
-2. Write a function named `different` that takes two arguments, `a` and `b`. If `a` and `b` are different values, the function should return `True`. Otherwise it should return `False`.
+1. Write a function named `different` that takes two arguments, `a` and `b`. If `a` and `b` are different values, the function should return `True`. Otherwise it should return `False`.
+
+<details>
+    <summary>Q1 Hint</summary>
+    <p>You can write this function with only one line of code -- the <code>return</code> statement -- in the body.
+    </p>
+</details>
 
 2. Write a conditional that prints different messages if a bank account balance is:
  * below $3,000
  * between $3,000 and $10,000
  * over $10,000
 
+ <details>
+    <summary>Q2 Hint</summary>
+    <p>
+    You can check if a value <code>x</code> is between two other values with a condition like <code>5 <= x <= 10</code>, but you can also solve this problem by strategically ordering conditions.
+    </p>
+</details>
 
 3. Create a list, `books`, containing the following items: `'War and Peace', 'Pride and Prejudice', 'Mockingjay', 'Three Musketeers', 'The Adventures of Robinson Crusoe', 'Yevgeniy Onegin'`.
 
@@ -20,46 +32,8 @@
       - Remove 'Pride and Prejudice' from the list.
       - Insert 'Harry Potter and the Chamber of Secrets' after 'Mocking Jay'.
 
-
-4. Given the list `people`, sort it by people's first name, last name and age. Store the sorted lists as `by_first_name`, `by_last_name`, and `by_age`, respectively.  
-`people = [('Mark', 'Harrison', 56), ('Ken', 'Wolseley', 23), ('Emily', 'Robinson', 77)]`
-
-5. Write a function called `dict_intersect` that takes two dictionaries, `d1` and `d2`, as arguments and returns a set that contains only the keys found in both of the original dictionaries.
-```python
-def dict_intersect(d1, d2):
-    '''Return the set of keys found in both d1 and d2.
-    >>> dict_intersect({'a': 'A', 'b': 'B', 'c': 'C'}, {'a': 'alpha', 'b': 'beta'})
-    {'a', 'b'}
-    >>> dict_intersect({'a': 1, 'b': 2}, {'c': 3, 'd': 2})
-    set()
-    '''
-    return
-```
-
-6. Write a loop that iterates over the two lists below simultaneously. For each pair of values, print the first number divided by the second. When the program encounters a zero divisor, it should skip the pair without printing anything.  
-```python
-dividends = [100, 37.5, -12]
-divisors [8, 0, -3]
-```
-
----
-## Hints
-
-<details>
-    <summary>Q1</summary>
-    <p>You can write this function with only one line of code -- the <code>return</code> statement -- in the body.
-    </p>
-</details>
- 
  <details>
-    <summary>Q2</summary>
-    <p>
-    You can check if a value <code>x</code> is between two other values with a condition like <code>5 <= x <= 10</code>, but you can also solve this problem by strategically ordering conditions.
-    </p>
-</details>
-
- <details>
-    <summary>Q3</summary>
+    <summary>Q3 Hints</summary>
     <ul>
     <li>Try using the same number as the starting index and ending index of a slice</li>
     <li>Useful list methods include <code>remove()</code> and <code>insert()</code></li>
@@ -67,11 +41,8 @@ divisors [8, 0, -3]
     </p>
 </details>
 
- <details>
-    <summary>Q4 Hint 1</summary>
-    <p> We want our sorting function to return a new list, rather than modifying in place.
-    </p>
-</details>
+4. Given the list `people`, sort it by people's first name, last name and age. Store the sorted lists as `by_first_name`, `by_last_name`, and `by_age`, respectively.  
+`people = [('Mark', 'Harrison', 56), ('Ken', 'Wolseley', 23), ('Emily', 'Robinson', 77)]`
 
  <details>
     <summary>Q4 Hint 1</summary>
@@ -85,6 +56,17 @@ divisors [8, 0, -3]
     </p>
 </details>
 
+5. Write a function called `dict_intersect` that takes two dictionaries, `d1` and `d2`, as arguments and returns a set that contains only the keys found in both of the original dictionaries.
+```python
+def dict_intersect(d1, d2):
+    '''Return the set of keys found in both d1 and d2.
+    >>> dict_intersect({'a': 'A', 'b': 'B', 'c': 'C'}, {'a': 'alpha', 'b': 'beta'})
+    {'a', 'b'}
+    >>> dict_intersect({'a': 1, 'b': 2}, {'c': 3, 'd': 2})
+    set()
+    '''
+    return
+```
 
  <details>
     <summary>Q5 Hint 1</summary>
@@ -105,6 +87,12 @@ divisors [8, 0, -3]
     Some useful functions and methods are <code>keys()</code>, <code>set()</code>, and <code>intersection()</code>.
     </p>
 </details>
+
+6. Write a loop that iterates over the two lists below simultaneously. For each pair of values, print the first number divided by the second. When the program encounters a zero divisor, it should skip the pair without printing anything.  
+```python
+dividends = [100, 37.5, -12]
+divisors [8, 0, -3]
+```
 
  <details>
     <summary>Q6 Hint 1</summary>
