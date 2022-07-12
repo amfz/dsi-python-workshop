@@ -24,7 +24,7 @@
 
 3. Following the function design recipe, define:
   * a function that converts Fahrenheit into Celsius
-  * a function that converts kilometers into miles. (There are 1.6 kilometers in a mile.)
+  * a function that converts kilometers into miles. (Assume there are 1.6 kilometers in a mile.)
 
 4. What value is printed in the below code?
 
@@ -41,7 +41,7 @@ answer_to_everything()
 print(answer)
 ```
 
-5. Complete the examples in the docstring below, then write the body of the function.
+5. Complete the examples in the docstring below, then write the body of the function. You can assume `num` is always >= 0.
 
 ```python
 def repeat(string, num):
