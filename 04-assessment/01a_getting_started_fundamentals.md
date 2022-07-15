@@ -18,7 +18,7 @@
 `5 * 3 = weight` **Error** -- We cannot assign a value to an expression, even if `weight` had been defined.
 
 `73 / -----------5`: **Valid** -- negatives cancel each other out.
-```
+
 
 3. Following the function design recipe, define:
   * a function that converts Fahrenheit into Celsius
