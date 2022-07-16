@@ -33,7 +33,7 @@ Create a list, `books`, containing the following items: `'War and Peace', 'Pride
    
     * Using list methods:
       - Remove 'Pride and Prejudice' from the list.
-      - Insert 'Harry Potter and the Chamber of Secrets' after 'Mocking Jay'.
+      - Insert 'Harry Potter and the Chamber of Secrets' after 'Mockingjay'.
 
  <details>
     <summary>Q3 Hints</summary>
@@ -98,7 +98,7 @@ Write a loop that iterates over the two lists below simultaneously. For each pai
 
 ```python
 dividends = [100, 37.5, -12]
-divisors [8, 0, -3]
+divisors = [8, 0, -3]
 ```
  <details>
     <summary>Q6 Hint 1</summary>
