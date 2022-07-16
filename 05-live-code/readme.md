@@ -7,3 +7,4 @@ This folder contains notebooks created during classes. They have been lightly ed
 |---|---|---|
 |0711_fundamentals | data types through string slicing | 01_getting_started_fundamentals |
 |0714_fundamentals_reality | strings through list methods | 01_getting_started_fundamentals, 02_reality_control_flow_iterables |
+|0716_reality_in_out | sorting through OOP | 02_reality_control_flow_iterables, 03_in_out_modules_files_oop|
