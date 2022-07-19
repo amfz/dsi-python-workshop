@@ -3,7 +3,7 @@
 
 ### Quick problems
 Continuing from Monday's session/assuming subway delay data is already loaded to a DataFrame:
-* Load `subway_stations.csv` to a DataFrame.
+* Load the [`subway_stations.csv`](https://github.com/amfz/dsi-python-workshop/blob/main/data/subway_stations.csv) to a DataFrame.
 * Check the first 5 rows of `subway_stations`.
 * Check `subway_stations` column data types and shape.
 * How many unique values are in the `station` column?
