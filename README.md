@@ -65,11 +65,11 @@ The course is a live-coding class. Learners are expected to follow along with th
 ## Schedule
 *Schedule is tentative and may be modified as needed. Learners will be notified of schedule changes.*
 
-* **Day 1:** Introduction and setup, data types, variables, operations, functions, dealing with errors, documenting code, strings
-* **Day 2:** More on strings, logic, control flow, sequences and collections
-* **Day 3:** Control flow, collections of values continued, modules
-* **Day 4:** Reading and writing files, object-oriented programming concepts, intro to `numpy`
-* **Day 5:** Working with data in `numpy` and `pandas`
+* **Day 1:** Introduction and setup; basic data types; variables; functions; dealing with errors; documenting code
+* **Day 2:** More on strings; logic; conditionals; lists
+* **Day 3:** Iteration; dictionaries, sets, and tuples; modules; working with files; OOP concepts
+* **Day 4:** Working with data in `numpy` and `pandas`
+* **Day 5:** Working with data in `numpy` and `pandas`, continued
 * **Day 6:** Data visualization
 
 ## Folder Structure
