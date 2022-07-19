@@ -25,6 +25,7 @@ Some sugested datasets:
 3. What metadata is available (e.g., column names, data types, descriptions)?
 4. Is there documentation about who or what produces the data? About who collects it? Through what processes? 
 5. Is there documentation about limitations of the data, such as possible sources of error or omission?
+6. Are there any restrictions concerning data access or use? (e.g.,registraton required or non-commercial use only)
 
 #### Getting started
 1. Load the data to a single DataFrame.
