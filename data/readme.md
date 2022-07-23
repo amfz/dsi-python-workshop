@@ -15,6 +15,7 @@
 | delays_w_reasons.xlsx | Derived from ttc-subway-delay-data and ttc-subway-delay-codes | Created in `04b_pandas` slides and lecture |
 | delay_summary.xlsx | Derived from ttc-subway-delay-data and ttc-subway-delay-codes | Created in `04b_pandas` slides and lecture |
 | neighbourhoods.csv | Derived from neighbourhood-profiles-2016-140-model | Created in `04b_pandas` slides, used in `04b_pandas` and `05_visualization` slides and lecture |
+| bike_thefts_joined.csv | Derived from `bicycle-thefts - 4326` and `neighbourhood-profiles-2016-140-model.csv` | Created in `04b_pandas` slides, used in `04b_pandas` and `05_visualization` slides |
 
 ## Additional datasets
 
